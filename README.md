@@ -30,3 +30,4 @@ Experience Upgrades: Loop button, ultra boost, alphabetically sorted library, du
 <img width="1917" height="1079" alt="Screenshot 2026-04-16 194132" src="https://github.com/user-attachments/assets/fa353f04-3702-444a-a43e-ede9fa79a9cb" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-16 194311" src="https://github.com/user-attachments/assets/a8d48242-a363-4d4d-8a9f-7f839dfed3ae" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-16 194304" src="https://github.com/user-attachments/assets/693ec173-f34e-4e53-a2a4-1bd2bdc630f1" />
+<img width="1272" height="636" alt="Screenshot 2026-04-16 213505" src="https://github.com/user-attachments/assets/b4a86142-9b25-4587-a8af-9b46b738d976" />
