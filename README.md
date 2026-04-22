@@ -1,5 +1,5 @@
 # Aura_Music_pro-version
-Shipped major upgrades to Aura_Music_pro version on microsoft:
+Shipped major upgrades to Aura_Music_pro version on microsoft: (ms-windows-store://pdp/?productid=9NBLL4FLBVK6)
 
 Core Build: Delivered as a single 80MB executable — one click to run on any desktop device.
 
